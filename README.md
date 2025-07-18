@@ -4,7 +4,7 @@
   <img src="https://pedidoszapp.com.br/static/landing/menu-digital-custom.png" style="max-width: 80%" />
 </p>
 
-O **Pedidos ZApp** é um sistema completo de cardápio digiral e pedidos, com foco em simplicidade, agilidade e integração com o WhatsApp. Ideal para lanchonetes, pizzarias, restaurantes e empreendedores que desejam digitalizar o atendimento por apenas **R$19,90/mês**, com **1 mês gratuito** para teste.
+O **Pedidos ZApp** é um sistema completo de cardápio digital e gestão de pedidos, com foco em simplicidade, agilidade e integração com o WhatsApp. Ideal para lanchonetes, pizzarias, restaurantes e empreendedores que desejam digitalizar o atendimento por apenas **R$19,90/mês**, com **1 mês gratuito** para teste.
 
 > 🚀 Ideal para **revendedores** que desejam oferecer uma solução white label pronta, robusta e de fácil implantação para seus clientes. Entre em contato para mais detalhes.
 
