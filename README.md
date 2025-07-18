@@ -1,4 +1,4 @@
-# 🟢 Pedidos ZApp — Sistema de Pedidos e Cardápio Digital
+# 🟢 Pedidos ZApp - Cardápio Digital e Gestor de Pedidos
 
 <p align="center">
   <img src="https://pedidoszapp.com.br/static/landing/menu-digital-custom.png" style="max-width: 80%" />
